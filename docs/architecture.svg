@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+  <rect width="1200" height="650" rx="28" fill="#fbfbfc"/>
+  <text x="70" y="70" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#16181d">AURA — Local-first architecture</text>
+  <text x="70" y="104" font-family="Arial, sans-serif" font-size="18" fill="#6b7280">Adaptive understanding, retrieval and privacy processing on the user's machine.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="70" y="150" width="230" height="86" rx="18" fill="#ffffff" stroke="#e2e3e8"/>
+    <text x="185" y="185" text-anchor="middle" font-size="20" font-weight="700" fill="#16181d">User input</text>
+    <text x="185" y="212" text-anchor="middle" font-size="15" fill="#6b7280">PDF · DOCX · image · notes</text>
+    <rect x="350" y="150" width="230" height="86" rx="18" fill="#ffffff" stroke="#e2e3e8"/>
+    <text x="465" y="185" text-anchor="middle" font-size="20" font-weight="700" fill="#16181d">Local extraction</text>
+    <text x="465" y="212" text-anchor="middle" font-size="15" fill="#6b7280">PyMuPDF · DOCX · OCR</text>
+    <rect x="630" y="150" width="230" height="86" rx="18" fill="#ffffff" stroke="#e2e3e8"/>
+    <text x="745" y="185" text-anchor="middle" font-size="20" font-weight="700" fill="#16181d">Privacy engine</text>
+    <text x="745" y="212" text-anchor="middle" font-size="15" fill="#6b7280">detect · score · redact</text>
+    <rect x="910" y="150" width="220" height="86" rx="18" fill="#16181d"/>
+    <text x="1020" y="185" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">Local AI</text>
+    <text x="1020" y="212" text-anchor="middle" font-size="15" fill="#e5e7eb">Ollama / local runtime</text>
+
+    <line x1="300" y1="193" x2="350" y2="193" stroke="#73758a" stroke-width="3"/>
+    <line x1="580" y1="193" x2="630" y2="193" stroke="#73758a" stroke-width="3"/>
+    <line x1="860" y1="193" x2="910" y2="193" stroke="#73758a" stroke-width="3"/>
+
+    <rect x="210" y="340" width="780" height="108" rx="22" fill="#ffffff" stroke="#e2e3e8"/>
+    <text x="600" y="382" text-anchor="middle" font-size="21" font-weight="700" fill="#16181d">Retrieval + adaptive prompting</text>
+    <text x="600" y="414" text-anchor="middle" font-size="16" fill="#6b7280">TF-IDF evidence selection · audience level · language · response style</text>
+
+    <line x1="1020" y1="236" x2="1020" y2="320" stroke="#73758a" stroke-width="3"/>
+    <line x1="1020" y1="320" x2="990" y2="340" stroke="#73758a" stroke-width="3"/>
+
+    <rect x="130" y="510" width="180" height="72" rx="18" fill="#f3f3ff" stroke="#dddfff"/>
+    <rect x="360" y="510" width="180" height="72" rx="18" fill="#f3f3ff" stroke="#dddfff"/>
+    <rect x="590" y="510" width="180" height="72" rx="18" fill="#f3f3ff" stroke="#dddfff"/>
+    <rect x="820" y="510" width="180" height="72" rx="18" fill="#f3f3ff" stroke="#dddfff"/>
+    <text x="220" y="553" text-anchor="middle" font-size="19" font-weight="700" fill="#4546b5">Ask</text>
+    <text x="450" y="553" text-anchor="middle" font-size="19" font-weight="700" fill="#4546b5">Explain</text>
+    <text x="680" y="553" text-anchor="middle" font-size="19" font-weight="700" fill="#4546b5">Quiz</text>
+    <text x="910" y="553" text-anchor="middle" font-size="19" font-weight="700" fill="#4546b5">Safe export</text>
+  </g>
+</svg>

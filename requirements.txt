@@ -1,0 +1,10 @@
+streamlit>=1.49,<2
+pymupdf>=1.26,<2
+python-docx>=1.2,<2
+pillow>=11,<12
+pytesseract>=0.3.13,<1
+pandas>=2.2,<3
+scikit-learn>=1.6,<2
+requests>=2.32,<3
+python-dotenv>=1.1,<2
+psutil>=7,<8

@@ -1,0 +1,7 @@
+AURA Demo Notes
+
+Local-first AI means the application keeps document processing on the user's machine whenever possible. A local retrieval layer can select the most relevant passages before a local language model generates an answer.
+
+A useful workflow is: upload a source, inspect extracted text, run a privacy scan, ask a grounded question, request an explanation at a chosen audience level, and generate a short quiz for revision.
+
+This file is deliberately generic and contains no real personal information. It is included so the application can be demonstrated immediately after installation.
